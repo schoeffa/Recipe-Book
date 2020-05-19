@@ -1,0 +1,27 @@
+.navbar-custom .navbar-brand,
+.navbar-custom a,
+.navbar-custom {
+    color: #B0DB43;
+    background-color: #141115;
+}
+
+.navbar-custom a:hover {
+    color: #EFF0D1;
+}
+
+.navbar-custom button {
+    border-color: #B0DB43;
+}
+
+.navbar-custom button:hover,
+.navbar-custom .icon-bar,
+.navbar-custom button:focus
+{
+    background-color: #B0DB43;
+}
+
+.navbar-custom button:hover .icon-bar,
+.navbar-custom button:focus .icon-bar
+{
+    background-color: #141115;
+}
