@@ -9,6 +9,10 @@
     color: #EFF0D1;
 }
 
+.navbar-custom a:focus {
+    color: #D62839;
+}
+
 .navbar-custom button {
     border-color: #B0DB43;
 }
