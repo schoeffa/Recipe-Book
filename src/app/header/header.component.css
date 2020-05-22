@@ -1,31 +1,31 @@
 .navbar-custom .navbar-brand,
 .navbar-custom a,
 .navbar-custom {
-    color: #B0DB43;
-    background-color: #141115;
+    color: #2f004f;
+    background-color: #C191A1;
 }
 
 .navbar-custom a:hover {
-    color: #EFF0D1;
+    color: #EABFCB;
 }
 
 .navbar-custom a:focus {
-    color: #D62839;
+    color: #A4508B;
 }
 
 .navbar-custom button {
-    border-color: #B0DB43;
+    border-color: #2F004F;
 }
 
 .navbar-custom button:hover,
 .navbar-custom .icon-bar,
 .navbar-custom button:focus
 {
-    background-color: #B0DB43;
+    background-color: #2F004F;
 }
 
 .navbar-custom button:hover .icon-bar,
 .navbar-custom button:focus .icon-bar
 {
-    background-color: #141115;
+    background-color: #C191A1;
 }
