@@ -6,4 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  route = 'default';
+
+  handleRouter(routerData: {route: string}) {
+    this.route = routerData.route;
+  }
 }
