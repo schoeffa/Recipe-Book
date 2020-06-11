@@ -14,8 +14,4 @@ export class HeaderComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  onRoute(route: string) {
-    this.router.emit({route: route})
-  }
-
 }
